@@ -1,0 +1,45 @@
+.carta{
+    display: grid;
+  
+    color: $white;
+    width: 100vw;
+
+}   
+.titu{
+    display: grid;
+    
+}
+
+.carta4{
+    width: auto;
+ display: grid;
+ grid-template-columns:10% 40% 40% 10% ;
+}
+.carta2 {
+    display: grid;
+    text-align: center;
+    font-family: 'Uchen', serif;
+    margin-left: 1vw;
+}
+.carta2-a{
+    display :grid;
+    margin-left: 1vw;
+    width: 20vw;
+}
+.carta3 {
+    border-radius: 100%;
+    width: 46vw;
+    
+  
+} 
+.carta-a{
+    font-size: 2em;
+    margin: 0px 13vw;
+    font-family: 'Uchen', serif;
+}
+.carta-b{
+    font-size: 2em;
+    margin: 0px 17vw;
+    font-family: 'Uchen', serif;
+
+}
