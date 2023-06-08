@@ -1,34 +1,34 @@
- 
-.fondo{
-  background-color: $main;
-  
-  margin: 1px;
-}
-  .cuerpo {
-    padding:  1vw 1vw 1vw 1vw ;
-    background-color: $main;
-    font-size: 1.5vw;
-   
-    p{  color:$white;
-        &:hover{
-            color: $main
-        }
+ .fondo {
+   background-color: $main;
+   margin: 1px;
+ }
 
-    }
+ .cuerpo {
+   padding: 1vw 1vw 1vw 1vw;
+   background-color: $main;
+   font-size: 1.5vw;
 
- 
-  }
-  @media (max-width: 700px) {
-    .cuerpo {
-      padding:  1vw 1vw 1vw 1vw ;
-      background-color: $main;
-      font-size: 4vw;
-     
-      p{  color:$white;
-          &:hover{
-              color: $main
-          }
-  
-      }
-  } 
-}
+   p {
+     color: $white;
+
+     &:hover {
+       color: $main
+     }
+   }
+ }
+
+ @media (max-width: 700px) {
+   .cuerpo {
+     padding: 1vw 1vw 1vw 1vw;
+     background-color: $main;
+     font-size: 4vw;
+
+     p {
+       color: $white;
+
+       &:hover {
+         color: $main
+       }
+     }
+   }
+ }

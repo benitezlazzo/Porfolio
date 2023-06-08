@@ -1,42 +1,40 @@
-.contacto{
-    display : grid;
-    grid-template-columns:1f 1f;
+.contacto {
+    display: grid;
+    grid-template-columns: 1f 1f;
     color: $white;
     justify-items: center;
-
 }
 
-.meil2{
+.meil2 {
     display: grid;
     padding: 1vw 6vw 4vw 6vw;
     margin: 3vw 13vw 5vw 12vw;
     font-family: 'Uchen', serif;
     border-radius: 3%;
-    font-size:large;
+    font-size: large;
     color: rgb(6, 10, 33);
     background-color: rgb(210, 228, 232);
 
 }
-.meil{
+
+.meil {
     display: grid;
     padding: 1vw 6vw 1vw 6vw;
     margin: 12vh 1vh 22vh 1vh;
     font-family: 'Uchen', serif;
     border-radius: 3%;
-    background-color:  $white;
+    background-color: $white;
     color: black;
     background-color: rgb(255, 255, 255);
-
 }
- @media (max-width: 700px) {
+
+@media (max-width: 700px) {
     .meil {
         display: grid;
         padding: 1vw 6vw 1vw 6vw;
         margin: 9vh 1vh 9vh 1vh;
-        
         border-radius: 3%;
-        background-color:  $white;
+        background-color: $white;
         color: black;
-
     }
 }

@@ -1,4 +1,3 @@
-
 import Body from './Componentes/Main/Body';
 import Footer from './Componentes/Footer/Footer';
 import Present from './Componentes/Header/Present';
@@ -14,11 +13,9 @@ import About from './Pages/About';
 
 function App() {
   return (
-
     <BrowserRouter>
       <div class="fondo">
         <Carta />
-
         <Present />
         <Body />
         <Routes>
@@ -28,7 +25,6 @@ function App() {
         </Routes>
         <Retrato />
         <Carru />
-
         <Contacto />
         <Footer />
       </div>
