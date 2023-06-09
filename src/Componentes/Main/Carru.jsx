@@ -15,8 +15,7 @@ function Carru() {
           </div>
         </div>
         <Carousel.Caption>
-          <h3></h3>
-          <p></p>
+
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item interval={500}>
@@ -33,8 +32,7 @@ function Carru() {
           </div>
         </div>
         <Carousel.Caption>
-          <h3></h3>
-          <p></p>
+
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -51,9 +49,7 @@ function Carru() {
           </div>
         </div>
         <Carousel.Caption>
-          <h3></h3>
-          <p>
-          </p>
+
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
