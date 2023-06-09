@@ -12,7 +12,6 @@ const Footer = () => {
             <div class="box">
                 <h2>CONTACTO</h2>
                 <div class="red-social">
-                    <button></button>
                     <button href="https://t.me/juan_ignacio33" class="fa fa-telegram" target="_blank" rel="noopener noreferrer"></button>
                     <button href="https://api.whatsapp.com/send/?phone=541132048637&text&type=phone_number&app_absent=0" class="fa fa-whatsapp" target="_blank" rel="noopener noreferrer"></button>
                     <button href="https://www.facebook.com/profile.php?id=100085430536728" class="fa fa-facebook" target="_blank" rel="noopener noreferrer" ></button>
