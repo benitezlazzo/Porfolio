@@ -5,7 +5,7 @@ const Footer = () => {
         <div class="grupo-1">
             <div class="box">
                 <figure>
-                    <a href="#">
+                    <a >
                         <img src="https://res.cloudinary.com/dbq0h1f5w/image/upload/v1685396701/Captura_de_pantalla_2023-05-29_184233_xto9f6.png" alt="certificado" class='imgreact' /></a>
                 </figure>
             </div>
