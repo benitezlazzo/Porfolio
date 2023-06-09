@@ -12,10 +12,10 @@ const Footer = () => {
             <div class="box">
                 <h2>CONTACTO</h2>
                 <div class="red-social">
-                    <a href="https://t.me/juan_ignacio33" class="fa fa-telegram" target="_blank" rel="noopener noreferrer">Telegram</a>
-                    <a href="https://api.whatsapp.com/send/?phone=541132048637&text&type=phone_number&app_absent=0" class="fa fa-whatsapp" target="_blank" rel="noopener noreferrer">Whatsapp</a>
-                    <a href="https://www.facebook.com/profile.php?id=100085430536728" class="fa fa-facebook" target="_blank" rel="noopener noreferrer" >Facebook</a>
-                    <a href="https://www.linkedin.com/in/juan-ignacio-benitez-lazzo-31b0b6245/" class="fa fa-linkedin" target="_blank" rel="noopener noreferrer">Linkedin</a>
+                    <a href="https://t.me/juan_ignacio33" class="fa fa-telegram" target="_blank" rel="noopener noreferrer">T</a>
+                    <a href="https://api.whatsapp.com/send/?phone=541132048637&text&type=phone_number&app_absent=0" class="fa fa-whatsapp" target="_blank" rel="noopener noreferrer">W</a>
+                    <a href="https://www.facebook.com/profile.php?id=100085430536728" class="fa fa-facebook" target="_blank" rel="noopener noreferrer" >F</a>
+                    <a href="https://www.linkedin.com/in/juan-ignacio-benitez-lazzo-31b0b6245/" class="fa fa-linkedin" target="_blank" rel="noopener noreferrer">Li</a>
                 </div>
             </div>
         </div>
