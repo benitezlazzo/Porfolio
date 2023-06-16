@@ -6,9 +6,9 @@ const Carta = () => {
     <div className="Navbar">
       <span className="nav-logo">Juan Ignacio Benitez Lazzo</span>
       <div className={`nav-items ${isOpen && "open"}`}>
-        <Link to="/">Home</Link>
-        <Link to="/Projects">Projects </Link>
-        <Link to="/About">About</Link>
+        <Link to="/" onClick={Carta} class="navnav">Home</Link>
+        <Link to="/Projects" onClick={Carta} class="navnav">Projects </Link>
+        <Link to="/About" onClick={Carta} class="navnav">About</Link>
       </div>
       <div
         className={`nav-toggle ${isOpen && "open"}`}
